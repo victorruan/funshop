@@ -47,7 +47,7 @@ class Category extends \yii\db\ActiveRecord
     {
         return [
             TimestampBehavior::className(),
-            // BlameableBehavior::className(),
+            BlameableBehavior::className(),
         ];
     }
 

@@ -45,7 +45,11 @@ class OrderProduct extends \yii\db\ActiveRecord
     {
         return [
             TimestampBehavior::className(),
-            // BlameableBehavior::className(),
+//                [
+//                    'class'=>BlameableBehavior::className(),
+//                    'createdByAttribute' => 'author_id',
+//                    'updatedByAttribute' => 'updater_id',
+//                ]
         ];
     }
 

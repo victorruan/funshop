@@ -47,17 +47,17 @@ $this->registerJsFile('@web/js/switchable.js', ['depends' => \frontend\assets\Ap
             <h2>手机</h2>
         </div>
         <ul class="brand">
-            <li> <a href="#" target="_blank"> <img src="/upload/201502/small-iphone61.jpg"></a> </li>
-            <li> <a href="#" target="_blank"> <img src="/upload/201502/small-macbook.jpg"></a> </li>
-            <li> <a href="#" target="_blank"> <img src="/upload/201502/small-sumsung.jpg"></a> </li>
+            <li> <a href="http://funshop.victorruan.cn/product/14" target="_blank"> <img src="http://funshop.victorruan.cn/upload/201708/small-TB2JGDLaXHzQeBjSZFuXXanUpXa_!!2784739501.jpg_430x430q90-599ff8ba0fc78.jpg"></a> </li>
+            <li> <a href="http://funshop.victorruan.cn/product/14" target="_blank"> <img src="http://funshop.victorruan.cn/upload/201708/small-TB2JGDLaXHzQeBjSZFuXXanUpXa_!!2784739501.jpg_430x430q90-599ff8ba0fc78.jpg"></a> </li>
+            <li> <a href="http://funshop.victorruan.cn/product/14" target="_blank"> <img src="http://funshop.victorruan.cn/upload/201708/small-TB2JGDLaXHzQeBjSZFuXXanUpXa_!!2784739501.jpg_430x430q90-599ff8ba0fc78.jpg"></a> </li>
         </ul>
         <div class="brand_cata">
-            <a target="_blank" href="http://www.mayicun.com/item/0103/">苹果</a>
-            <a target="_blank" href="http://www.mayicun.com/item/0107/">三星</a>
-            <a target="_blank" href="http://www.mayicun.com/item/0116/">华为</a>
+            <a target="_blank" href="http://funshop.victorruan.cn/product/14">苹果</a>
+            <a target="_blank" href="http://funshop.victorruan.cn/product/14">三星</a>
+            <a target="_blank" href="http://funshop.victorruan.cn/product/14">华为</a>
         </div>
     </div>
-    <div class="series_pic"> <a href="#" target="_blank"> <img src="/upload/201502/small-iphone6.jpg"></a> </div>
+    <div class="series_pic"> <a href="#" target="_blank"> <img src="http://hikeblog.qiniudn.com/funshop_feilipu_image_02.jpg"></a> </div>
     <div class="pro_list">
         <ul class="cle">
             <?php foreach ($products as $item) { ?>

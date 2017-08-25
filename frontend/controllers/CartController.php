@@ -160,7 +160,7 @@ class CartController extends \frontend\components\Controller
                     $orderProduct->price = $product->price;
                     $orderProduct->thumb = $product->thumb;
                     $orderProduct->type = $product->type;
-
+                    $orderProduct->user_id = $model->user_id ;
                     $orderProduct->save();
 
                     // 减少商品的库存
